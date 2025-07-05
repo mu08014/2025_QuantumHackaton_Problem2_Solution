@@ -14,4 +14,4 @@ To solve the problem, we propose a quantum-enhanced approach based on classical 
 
 * Third QAOA infers specific edges that satisfy additional constraints, using the subgraph derived from the second QAOA.
 
-To facilitate convergence, we incorporate Dicke states and classical optimization techniques. Moreover, to ensure feasibility on NISQ devices, we apply error mitigation strategies. For detailed methodology, please refer to the attached file: Instant_Insanity_puzzle_KHUbit.pdf.
+To facilitate convergence, we incorporate Dicke states and classical optimization techniques. Moreover, to ensure feasibility on NISQ devices, we apply error mitigation strategies. For detailed methodology, please refer to the attached file: [Instant_Insanity_puzzle_KHUbit.pdf](https://github.com/mu08014/2025_QuantumHackaton_Problem2_Solution/blob/main/Instant%20Insanity%20puzzle_KHUbit.pdf)] (Instant_Insanity_puzzle_KHUbit.pdf)
