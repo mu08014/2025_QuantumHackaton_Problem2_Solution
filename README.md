@@ -1,7 +1,7 @@
 # 2025_QuantumHackaton_Problem2_Solution
 
 ### Solution for Special Award for IonQ Application – Quantum Hackathon 2025
-This repository contains the solution that achieved Special Award for IonQ Application in the Quantum Hackathon 2025.
+This repository contains the solution that achieved Special Award for IonQ Application in the [Quantum Hackathon 2025](https://qhackathon.kr/2025/?p=0401&idx=5524).
 
 Each Python file can be executed to reproduce the results.
 
